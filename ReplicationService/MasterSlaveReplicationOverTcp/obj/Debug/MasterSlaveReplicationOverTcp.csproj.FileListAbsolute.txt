@@ -1,0 +1,7 @@
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\obj\Debug\MasterSlaveReplicationOverTcp.csprojResolveAssemblyReference.cache
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\bin\Debug\MasterSlaveReplicationOverTcp.dll
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\bin\Debug\MasterSlaveReplicationOverTcp.pdb
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\bin\Debug\UserStorageService.dll
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\bin\Debug\UserStorageService.pdb
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\obj\Debug\MasterSlaveReplicationOverTcp.dll
+D:\Projects\ReplicationService\MasterSlaveReplicationOverTcp\obj\Debug\MasterSlaveReplicationOverTcp.pdb

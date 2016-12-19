@@ -1,0 +1,8 @@
+D:\Projects\ReplicationService\WcfService\bin\Debug\WcfService.dll.config
+D:\Projects\ReplicationService\WcfService\bin\Debug\WcfService.dll
+D:\Projects\ReplicationService\WcfService\bin\Debug\WcfService.pdb
+D:\Projects\ReplicationService\WcfService\bin\Debug\UserStorageService.dll
+D:\Projects\ReplicationService\WcfService\bin\Debug\UserStorageService.pdb
+D:\Projects\ReplicationService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\Projects\ReplicationService\WcfService\obj\Debug\WcfService.dll
+D:\Projects\ReplicationService\WcfService\obj\Debug\WcfService.pdb

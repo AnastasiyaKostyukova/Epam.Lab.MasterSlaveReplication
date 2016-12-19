@@ -1,0 +1,8 @@
+D:\Projects\ReplicationService\ConsoleAppForTesting\bin\Debug\ConsoleAppForTesting.exe.config
+D:\Projects\ReplicationService\ConsoleAppForTesting\bin\Debug\ConsoleAppForTesting.exe
+D:\Projects\ReplicationService\ConsoleAppForTesting\bin\Debug\ConsoleAppForTesting.pdb
+D:\Projects\ReplicationService\ConsoleAppForTesting\obj\Debug\ConsoleAppForTesting.csprojResolveAssemblyReference.cache
+D:\Projects\ReplicationService\ConsoleAppForTesting\obj\Debug\ConsoleAppForTesting.exe
+D:\Projects\ReplicationService\ConsoleAppForTesting\obj\Debug\ConsoleAppForTesting.pdb
+D:\Projects\ReplicationService\ConsoleAppForTesting\bin\Debug\UserStorageService.dll
+D:\Projects\ReplicationService\ConsoleAppForTesting\bin\Debug\UserStorageService.pdb
